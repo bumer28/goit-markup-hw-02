@@ -234,10 +234,7 @@ a {
     color: var(--secondary-footer-text-color);
 }
 
-.contact-link:hover,
-.contact-link:focus {
-    color: var(--accent-color);
-}
+
 
 .map {
     color: var(--footer-text-color);
